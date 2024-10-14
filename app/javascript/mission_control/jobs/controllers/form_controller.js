@@ -1,5 +1,5 @@
 import { Controller } from "@hotwired/stimulus"
-import { debounce } from "helpers"
+import { debounce } from "helpers-mcj"
 
 export default class extends Controller {
   static values = {

@@ -1,1 +1,1 @@
-export * from "helpers/debounce_helpers"
+export * from "helpers-mcj/debounce_helpers"
